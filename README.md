@@ -1,6 +1,6 @@
 # 🎬 CineMood - Movie Sentiment Analysis Web App
 
-CineMood is an interactive web application that demonstrates real-time sentiment analysis on movie reviews. Users can input their opinion about various movies, and our AI model, built with Python and Natural Language Processing techniques, will predict whether the sentiment is Positive, Negative, or Neutral. The results are displayed in a user-friendly and visually engaging interface.
+CineMood is an interactive data science project that demonstrates real-time sentiment analysis on movie reviews. Users can input their opinion about various movies, and our AI model, built with Python and Natural Language Processing techniques, will predict whether the sentiment is Positive, Negative, or Neutral. The results are displayed in a user-friendly and visually engaging interface.
 
 This project was a collaborative effort by **NOUARI Oualid**, **HAMOUCHE Oussama** and **EL GHAZALI Amine**.
 
